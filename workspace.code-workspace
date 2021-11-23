@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\MERN JavaScript"
+		},
+		{
+			"path": "..\\..\\HTML"
+		},
+		{
+			"path": "..\\..\\MERN ES6"
+		},
+		{
+			"path": "..\\..\\javascript final assessment"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\React"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JAVASCRIPT ASSIGNMENT"
+	}
+}

@@ -1,0 +1,25 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css");
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+    body{
+    /* display: flex; */
+    text-align: center;
+    justify-content: center;
+    }
+    h2{
+    color:black;
+    font-size: 40px;
+    }
+    #search{
+    width: 400px;
+    height: 30px;
+    }
+    #btn{
+    width: 90px;
+    height: 30px;
+    background: royalblue;
+    color: black;
+    }
